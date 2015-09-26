@@ -1,0 +1,16 @@
+From 001759c8524223a46f4c1fbeea34619272ba626f Mon Sep 17 00:00:00 2001
+From: xiaochendegithub <1092817040@qq.com>
+Date: Sat, 26 Sep 2015 21:18:33 +0800
+Subject: [PATCH] this is the another.txt
+
+---
+ another.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 another.txt
+
+diff --git a/another.txt b/another.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.5.3.windows.1
+
